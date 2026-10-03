@@ -3,3 +3,4 @@ Disallow: /d/
 Disallow: /p/
 Disallow: /thanks.html
 Disallow: /c/
+Sitemap: https://innovatedigi.github.io/landlord-tracker/sitemap.xml
