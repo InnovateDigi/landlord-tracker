@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Innovate Digital//PRS Database dates//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prs-south-east-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:PRS Database: rule starts for the South East (draft)
+DESCRIPTION:PRS Database dates for the South East. Rule starts: 15 March 20
+ 27. Register by: 14 June 2027.\n\nThe start date is in the draft Private R
+ ented Sector Database Regulations 2026. The register-by date comes from Go
+ vernment guidance on the Housing Hub. We last checked both on 3 October 20
+ 26. The regulations were still draft then\, so the dates could change.\n\n
+ Check before you rely on these dates.\nGuide: https://innovatedigi.github.
+ io/landlord-tracker/guides/prs-database-south-east/\nOfficial page: https:
+ //housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-register/\n
+ \nThis is general information\, not legal advice. Innovate Digital is an i
+ ndependent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-sou
+ th-east/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-south-east-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:PRS Database: register-by date for the South East (draft)
+DESCRIPTION:PRS Database dates for the South East. Rule starts: 15 March 20
+ 27. Register by: 14 June 2027.\n\nThe start date is in the draft Private R
+ ented Sector Database Regulations 2026. The register-by date comes from Go
+ vernment guidance on the Housing Hub. We last checked both on 3 October 20
+ 26. The regulations were still draft then\, so the dates could change.\n\n
+ Check before you rely on these dates.\nGuide: https://innovatedigi.github.
+ io/landlord-tracker/guides/prs-database-south-east/\nOfficial page: https:
+ //housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-register/\n
+ \nThis is general information\, not legal advice. Innovate Digital is an i
+ ndependent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-sou
+ th-east/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

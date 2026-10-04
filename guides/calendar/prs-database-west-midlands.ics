@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Innovate Digital//PRS Database dates//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prs-west-midlands-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:PRS Database: rule starts for the West Midlands (draft)
+DESCRIPTION:PRS Database dates for the West Midlands. Rule starts: 15 Decem
+ ber 2026. Register by: 14 March 2027.\n\nThe start date is in the draft Pr
+ ivate Rented Sector Database Regulations 2026. The register-by date come
+ s from Government guidance on the Housing Hub. We last checked both on 3 O
+ ctober 2026. The regulations were still draft then\, so the dates could ch
+ ange.\n\nCheck before you rely on these dates.\nGuide: https://innovatedig
+ i.github.io/landlord-tracker/guides/prs-database-west-midlands/\nOfficia
+ l page: https://housinghub.campaign.gov.uk/renting-is-changing/get-ready-t
+ o-register/\n\nThis is general information\, not legal advice. Innovate Di
+ gital is an independent business and is not affiliated with Innovate UK o
+ r UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-wes
+ t-midlands/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-west-midlands-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:PRS Database: register-by date for the West Midlands (draft)
+DESCRIPTION:PRS Database dates for the West Midlands. Rule starts: 15 Decem
+ ber 2026. Register by: 14 March 2027.\n\nThe start date is in the draft Pr
+ ivate Rented Sector Database Regulations 2026. The register-by date come
+ s from Government guidance on the Housing Hub. We last checked both on 3 O
+ ctober 2026. The regulations were still draft then\, so the dates could ch
+ ange.\n\nCheck before you rely on these dates.\nGuide: https://innovatedig
+ i.github.io/landlord-tracker/guides/prs-database-west-midlands/\nOfficia
+ l page: https://housinghub.campaign.gov.uk/renting-is-changing/get-ready-t
+ o-register/\n\nThis is general information\, not legal advice. Innovate Di
+ gital is an independent business and is not affiliated with Innovate UK o
+ r UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-wes
+ t-midlands/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

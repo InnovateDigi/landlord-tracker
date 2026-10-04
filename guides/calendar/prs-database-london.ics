@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Innovate Digital//PRS Database dates//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prs-london-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:PRS Database: rule starts for London (draft)
+DESCRIPTION:PRS Database dates for London. Rule starts: 15 July 2027. Regis
+ ter by: 14 October 2027.\n\nThe start date is in the draft Private Rente
+ d Sector Database Regulations 2026. The register-by date comes from Govern
+ ment guidance on the Housing Hub. We last checked both on 3 October 2026
+ . The regulations were still draft then\, so the dates could change.\n\nCh
+ eck before you rely on these dates.\nGuide: https://innovatedigi.github.io
+ /landlord-tracker/guides/prs-database-london/\nOfficial page: https://hous
+ inghub.campaign.gov.uk/renting-is-changing/get-ready-to-register/\n\nThi
+ s is general information\, not legal advice. Innovate Digital is an indepe
+ ndent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-lon
+ don/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-london-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:PRS Database: register-by date for London (draft)
+DESCRIPTION:PRS Database dates for London. Rule starts: 15 July 2027. Regis
+ ter by: 14 October 2027.\n\nThe start date is in the draft Private Rente
+ d Sector Database Regulations 2026. The register-by date comes from Govern
+ ment guidance on the Housing Hub. We last checked both on 3 October 2026
+ . The regulations were still draft then\, so the dates could change.\n\nCh
+ eck before you rely on these dates.\nGuide: https://innovatedigi.github.io
+ /landlord-tracker/guides/prs-database-london/\nOfficial page: https://hous
+ inghub.campaign.gov.uk/renting-is-changing/get-ready-to-register/\n\nThi
+ s is general information\, not legal advice. Innovate Digital is an indepe
+ ndent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-lon
+ don/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

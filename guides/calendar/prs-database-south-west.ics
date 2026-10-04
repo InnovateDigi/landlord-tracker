@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Innovate Digital//PRS Database dates//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prs-south-west-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:PRS Database: rule starts for the South West (draft)
+DESCRIPTION:PRS Database dates for the South West. Rule starts: 15 August 2
+ 027. Register by: 14 November 2027.\n\nThe start date is in the draft Priv
+ ate Rented Sector Database Regulations 2026. The register-by date comes fr
+ om Government guidance on the Housing Hub. We last checked both on 3 Octob
+ er 2026. The regulations were still draft then\, so the dates could change
+ .\n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.gi
+ thub.io/landlord-tracker/guides/prs-database-south-west/\nOfficial page: h
+ ttps://housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-registe
+ r/\n\nThis is general information\, not legal advice. Innovate Digital i
+ s an independent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-sou
+ th-west/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-south-west-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:PRS Database: register-by date for the South West (draft)
+DESCRIPTION:PRS Database dates for the South West. Rule starts: 15 August 2
+ 027. Register by: 14 November 2027.\n\nThe start date is in the draft Priv
+ ate Rented Sector Database Regulations 2026. The register-by date comes fr
+ om Government guidance on the Housing Hub. We last checked both on 3 Octob
+ er 2026. The regulations were still draft then\, so the dates could change
+ .\n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.gi
+ thub.io/landlord-tracker/guides/prs-database-south-west/\nOfficial page: h
+ ttps://housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-registe
+ r/\n\nThis is general information\, not legal advice. Innovate Digital i
+ s an independent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-sou
+ th-west/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,374 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Innovate Digital//PRS Database dates//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prs-west-midlands-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:PRS Database: rule starts for the West Midlands (draft)
+DESCRIPTION:PRS Database dates for the West Midlands. Rule starts: 15 Decem
+ ber 2026. Register by: 14 March 2027.\n\nThe start date is in the draft Pr
+ ivate Rented Sector Database Regulations 2026. The register-by date come
+ s from Government guidance on the Housing Hub. We last checked both on 3 O
+ ctober 2026. The regulations were still draft then\, so the dates could ch
+ ange.\n\nCheck before you rely on these dates.\nGuide: https://innovatedig
+ i.github.io/landlord-tracker/guides/prs-database-west-midlands/\nOfficia
+ l page: https://housinghub.campaign.gov.uk/renting-is-changing/get-ready-t
+ o-register/\n\nThis is general information\, not legal advice. Innovate Di
+ gital is an independent business and is not affiliated with Innovate UK o
+ r UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-wes
+ t-midlands/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-west-midlands-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:PRS Database: register-by date for the West Midlands (draft)
+DESCRIPTION:PRS Database dates for the West Midlands. Rule starts: 15 Decem
+ ber 2026. Register by: 14 March 2027.\n\nThe start date is in the draft Pr
+ ivate Rented Sector Database Regulations 2026. The register-by date come
+ s from Government guidance on the Housing Hub. We last checked both on 3 O
+ ctober 2026. The regulations were still draft then\, so the dates could ch
+ ange.\n\nCheck before you rely on these dates.\nGuide: https://innovatedig
+ i.github.io/landlord-tracker/guides/prs-database-west-midlands/\nOfficia
+ l page: https://housinghub.campaign.gov.uk/renting-is-changing/get-ready-t
+ o-register/\n\nThis is general information\, not legal advice. Innovate Di
+ gital is an independent business and is not affiliated with Innovate UK o
+ r UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-wes
+ t-midlands/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-east-of-england-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:PRS Database: rule starts for the East of England (draft)
+DESCRIPTION:PRS Database dates for the East of England. Rule starts: 15 Jan
+ uary 2027. Register by: 14 April 2027.\n\nThe start date is in the draft P
+ rivate Rented Sector Database Regulations 2026. The register-by date come
+ s from Government guidance on the Housing Hub. We last checked both on 3 O
+ ctober 2026. The regulations were still draft then\, so the dates could ch
+ ange.\n\nCheck before you rely on these dates.\nGuide: https://innovatedig
+ i.github.io/landlord-tracker/guides/prs-database-east-of-england/\nOfficia
+ l page: https://housinghub.campaign.gov.uk/renting-is-changing/get-ready-t
+ o-register/\n\nThis is general information\, not legal advice. Innovate Di
+ gital is an independent business and is not affiliated with Innovate UK o
+ r UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-eas
+ t-of-england/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-east-of-england-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:PRS Database: register-by date for the East of England (draft)
+DESCRIPTION:PRS Database dates for the East of England. Rule starts: 15 Jan
+ uary 2027. Register by: 14 April 2027.\n\nThe start date is in the draft P
+ rivate Rented Sector Database Regulations 2026. The register-by date come
+ s from Government guidance on the Housing Hub. We last checked both on 3 O
+ ctober 2026. The regulations were still draft then\, so the dates could ch
+ ange.\n\nCheck before you rely on these dates.\nGuide: https://innovatedig
+ i.github.io/landlord-tracker/guides/prs-database-east-of-england/\nOfficia
+ l page: https://housinghub.campaign.gov.uk/renting-is-changing/get-ready-t
+ o-register/\n\nThis is general information\, not legal advice. Innovate Di
+ gital is an independent business and is not affiliated with Innovate UK o
+ r UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-eas
+ t-of-england/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-east-midlands-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:PRS Database: rule starts for the East Midlands (draft)
+DESCRIPTION:PRS Database dates for the East Midlands. Rule starts: 15 Febru
+ ary 2027. Register by: 14 May 2027.\n\nThe start date is in the draft Priv
+ ate Rented Sector Database Regulations 2026. The register-by date comes fr
+ om Government guidance on the Housing Hub. We last checked both on 3 Octob
+ er 2026. The regulations were still draft then\, so the dates could change
+ .\n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.gi
+ thub.io/landlord-tracker/guides/prs-database-east-midlands/\nOfficial page
+ : https://housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-regi
+ ster/\n\nThis is general information\, not legal advice. Innovate Digita
+ l is an independent business and is not affiliated with Innovate UK or UKR
+ I.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-eas
+ t-midlands/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-east-midlands-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:PRS Database: register-by date for the East Midlands (draft)
+DESCRIPTION:PRS Database dates for the East Midlands. Rule starts: 15 Febru
+ ary 2027. Register by: 14 May 2027.\n\nThe start date is in the draft Priv
+ ate Rented Sector Database Regulations 2026. The register-by date comes fr
+ om Government guidance on the Housing Hub. We last checked both on 3 Octob
+ er 2026. The regulations were still draft then\, so the dates could change
+ .\n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.gi
+ thub.io/landlord-tracker/guides/prs-database-east-midlands/\nOfficial page
+ : https://housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-regi
+ ster/\n\nThis is general information\, not legal advice. Innovate Digita
+ l is an independent business and is not affiliated with Innovate UK or UKR
+ I.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-eas
+ t-midlands/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-south-east-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:PRS Database: rule starts for the South East (draft)
+DESCRIPTION:PRS Database dates for the South East. Rule starts: 15 March 20
+ 27. Register by: 14 June 2027.\n\nThe start date is in the draft Private R
+ ented Sector Database Regulations 2026. The register-by date comes from Go
+ vernment guidance on the Housing Hub. We last checked both on 3 October 20
+ 26. The regulations were still draft then\, so the dates could change.\n\n
+ Check before you rely on these dates.\nGuide: https://innovatedigi.github.
+ io/landlord-tracker/guides/prs-database-south-east/\nOfficial page: https:
+ //housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-register/\n
+ \nThis is general information\, not legal advice. Innovate Digital is an i
+ ndependent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-sou
+ th-east/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-south-east-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:PRS Database: register-by date for the South East (draft)
+DESCRIPTION:PRS Database dates for the South East. Rule starts: 15 March 20
+ 27. Register by: 14 June 2027.\n\nThe start date is in the draft Private R
+ ented Sector Database Regulations 2026. The register-by date comes from Go
+ vernment guidance on the Housing Hub. We last checked both on 3 October 20
+ 26. The regulations were still draft then\, so the dates could change.\n\n
+ Check before you rely on these dates.\nGuide: https://innovatedigi.github.
+ io/landlord-tracker/guides/prs-database-south-east/\nOfficial page: https:
+ //housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-register/\n
+ \nThis is general information\, not legal advice. Innovate Digital is an i
+ ndependent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-sou
+ th-east/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-yorkshire-and-humber-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:PRS Database: rule starts for Yorkshire and Humber (draft)
+DESCRIPTION:PRS Database dates for Yorkshire and Humber. Rule starts: 15 Ap
+ ril 2027. Register by: 14 July 2027.\n\nThe start date is in the draft Pri
+ vate Rented Sector Database Regulations 2026. The register-by date comes f
+ rom Government guidance on the Housing Hub. We last checked both on 3 Octo
+ ber 2026. The regulations were still draft then\, so the dates could chang
+ e.\n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.g
+ ithub.io/landlord-tracker/guides/prs-database-yorkshire-and-humber/\nOffic
+ ial page: https://housinghub.campaign.gov.uk/renting-is-changing/get-ready
+ -to-register/\n\nThis is general information\, not legal advice. Innovat
+ e Digital is an independent business and is not affiliated with Innovate U
+ K or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-yor
+ kshire-and-humber/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-yorkshire-and-humber-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:PRS Database: register-by date for Yorkshire and Humber (draft)
+DESCRIPTION:PRS Database dates for Yorkshire and Humber. Rule starts: 15 Ap
+ ril 2027. Register by: 14 July 2027.\n\nThe start date is in the draft Pri
+ vate Rented Sector Database Regulations 2026. The register-by date comes f
+ rom Government guidance on the Housing Hub. We last checked both on 3 Octo
+ ber 2026. The regulations were still draft then\, so the dates could chang
+ e.\n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.g
+ ithub.io/landlord-tracker/guides/prs-database-yorkshire-and-humber/\nOffic
+ ial page: https://housinghub.campaign.gov.uk/renting-is-changing/get-ready
+ -to-register/\n\nThis is general information\, not legal advice. Innovat
+ e Digital is an independent business and is not affiliated with Innovate U
+ K or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-yor
+ kshire-and-humber/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-north-west-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:PRS Database: rule starts for the North West (draft)
+DESCRIPTION:PRS Database dates for the North West. Rule starts: 15 May 2027
+ . Register by: 14 August 2027.\n\nThe start date is in the draft Private R
+ ented Sector Database Regulations 2026. The register-by date comes from Go
+ vernment guidance on the Housing Hub. We last checked both on 3 October 20
+ 26. The regulations were still draft then\, so the dates could change.\n\n
+ Check before you rely on these dates.\nGuide: https://innovatedigi.github.
+ io/landlord-tracker/guides/prs-database-north-west/\nOfficial page: https:
+ //housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-register/\n
+ \nThis is general information\, not legal advice. Innovate Digital is an i
+ ndependent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-nor
+ th-west/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-north-west-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:PRS Database: register-by date for the North West (draft)
+DESCRIPTION:PRS Database dates for the North West. Rule starts: 15 May 2027
+ . Register by: 14 August 2027.\n\nThe start date is in the draft Private R
+ ented Sector Database Regulations 2026. The register-by date comes from Go
+ vernment guidance on the Housing Hub. We last checked both on 3 October 20
+ 26. The regulations were still draft then\, so the dates could change.\n\n
+ Check before you rely on these dates.\nGuide: https://innovatedigi.github.
+ io/landlord-tracker/guides/prs-database-north-west/\nOfficial page: https:
+ //housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-register/\n
+ \nThis is general information\, not legal advice. Innovate Digital is an i
+ ndependent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-nor
+ th-west/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-north-east-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:PRS Database: rule starts for the North East (draft)
+DESCRIPTION:PRS Database dates for the North East. Rule starts: 15 June 202
+ 7. Register by: 14 September 2027.\n\nThe start date is in the draft Priva
+ te Rented Sector Database Regulations 2026. The register-by date comes fro
+ m Government guidance on the Housing Hub. We last checked both on 3 Octobe
+ r 2026. The regulations were still draft then\, so the dates could change.
+ \n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.git
+ hub.io/landlord-tracker/guides/prs-database-north-east/\nOfficial page: ht
+ tps://housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-register
+ /\n\nThis is general information\, not legal advice. Innovate Digital is a
+ n independent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-nor
+ th-east/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-north-east-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:PRS Database: register-by date for the North East (draft)
+DESCRIPTION:PRS Database dates for the North East. Rule starts: 15 June 202
+ 7. Register by: 14 September 2027.\n\nThe start date is in the draft Priva
+ te Rented Sector Database Regulations 2026. The register-by date comes fro
+ m Government guidance on the Housing Hub. We last checked both on 3 Octobe
+ r 2026. The regulations were still draft then\, so the dates could change.
+ \n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.git
+ hub.io/landlord-tracker/guides/prs-database-north-east/\nOfficial page: ht
+ tps://housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-register
+ /\n\nThis is general information\, not legal advice. Innovate Digital is a
+ n independent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-nor
+ th-east/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-london-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:PRS Database: rule starts for London (draft)
+DESCRIPTION:PRS Database dates for London. Rule starts: 15 July 2027. Regis
+ ter by: 14 October 2027.\n\nThe start date is in the draft Private Rente
+ d Sector Database Regulations 2026. The register-by date comes from Govern
+ ment guidance on the Housing Hub. We last checked both on 3 October 2026
+ . The regulations were still draft then\, so the dates could change.\n\nCh
+ eck before you rely on these dates.\nGuide: https://innovatedigi.github.io
+ /landlord-tracker/guides/prs-database-london/\nOfficial page: https://hous
+ inghub.campaign.gov.uk/renting-is-changing/get-ready-to-register/\n\nThi
+ s is general information\, not legal advice. Innovate Digital is an indepe
+ ndent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-lon
+ don/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-london-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:PRS Database: register-by date for London (draft)
+DESCRIPTION:PRS Database dates for London. Rule starts: 15 July 2027. Regis
+ ter by: 14 October 2027.\n\nThe start date is in the draft Private Rente
+ d Sector Database Regulations 2026. The register-by date comes from Govern
+ ment guidance on the Housing Hub. We last checked both on 3 October 2026
+ . The regulations were still draft then\, so the dates could change.\n\nCh
+ eck before you rely on these dates.\nGuide: https://innovatedigi.github.io
+ /landlord-tracker/guides/prs-database-london/\nOfficial page: https://hous
+ inghub.campaign.gov.uk/renting-is-changing/get-ready-to-register/\n\nThi
+ s is general information\, not legal advice. Innovate Digital is an indepe
+ ndent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-lon
+ don/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-south-west-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:PRS Database: rule starts for the South West (draft)
+DESCRIPTION:PRS Database dates for the South West. Rule starts: 15 August 2
+ 027. Register by: 14 November 2027.\n\nThe start date is in the draft Priv
+ ate Rented Sector Database Regulations 2026. The register-by date comes fr
+ om Government guidance on the Housing Hub. We last checked both on 3 Octob
+ er 2026. The regulations were still draft then\, so the dates could change
+ .\n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.gi
+ thub.io/landlord-tracker/guides/prs-database-south-west/\nOfficial page: h
+ ttps://housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-registe
+ r/\n\nThis is general information\, not legal advice. Innovate Digital i
+ s an independent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-sou
+ th-west/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-south-west-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:PRS Database: register-by date for the South West (draft)
+DESCRIPTION:PRS Database dates for the South West. Rule starts: 15 August 2
+ 027. Register by: 14 November 2027.\n\nThe start date is in the draft Priv
+ ate Rented Sector Database Regulations 2026. The register-by date comes fr
+ om Government guidance on the Housing Hub. We last checked both on 3 Octob
+ er 2026. The regulations were still draft then\, so the dates could change
+ .\n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.gi
+ thub.io/landlord-tracker/guides/prs-database-south-west/\nOfficial page: h
+ ttps://housinghub.campaign.gov.uk/renting-is-changing/get-ready-to-registe
+ r/\n\nThis is general information\, not legal advice. Innovate Digital i
+ s an independent business and is not affiliated with Innovate UK or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-sou
+ th-west/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

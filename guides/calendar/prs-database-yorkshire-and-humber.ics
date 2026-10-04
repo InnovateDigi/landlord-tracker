@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Innovate Digital//PRS Database dates//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:prs-yorkshire-and-humber-start@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:PRS Database: rule starts for Yorkshire and Humber (draft)
+DESCRIPTION:PRS Database dates for Yorkshire and Humber. Rule starts: 15 Ap
+ ril 2027. Register by: 14 July 2027.\n\nThe start date is in the draft Pri
+ vate Rented Sector Database Regulations 2026. The register-by date comes f
+ rom Government guidance on the Housing Hub. We last checked both on 3 Octo
+ ber 2026. The regulations were still draft then\, so the dates could chang
+ e.\n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.g
+ ithub.io/landlord-tracker/guides/prs-database-yorkshire-and-humber/\nOffic
+ ial page: https://housinghub.campaign.gov.uk/renting-is-changing/get-ready
+ -to-register/\n\nThis is general information\, not legal advice. Innovat
+ e Digital is an independent business and is not affiliated with Innovate U
+ K or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-yor
+ kshire-and-humber/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:prs-yorkshire-and-humber-register-by@innovatedigi.github.io
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:PRS Database: register-by date for Yorkshire and Humber (draft)
+DESCRIPTION:PRS Database dates for Yorkshire and Humber. Rule starts: 15 Ap
+ ril 2027. Register by: 14 July 2027.\n\nThe start date is in the draft Pri
+ vate Rented Sector Database Regulations 2026. The register-by date comes f
+ rom Government guidance on the Housing Hub. We last checked both on 3 Octo
+ ber 2026. The regulations were still draft then\, so the dates could chang
+ e.\n\nCheck before you rely on these dates.\nGuide: https://innovatedigi.g
+ ithub.io/landlord-tracker/guides/prs-database-yorkshire-and-humber/\nOffic
+ ial page: https://housinghub.campaign.gov.uk/renting-is-changing/get-ready
+ -to-register/\n\nThis is general information\, not legal advice. Innovat
+ e Digital is an independent business and is not affiliated with Innovate U
+ K or UKRI.
+URL:https://innovatedigi.github.io/landlord-tracker/guides/prs-database-yor
+ kshire-and-humber/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
